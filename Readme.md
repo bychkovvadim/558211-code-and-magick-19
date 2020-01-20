@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Вадим](https://up.htmlacademy.ru/javascript/19/user/558211).
-* Наставник: `Неизвестно`.
+* Наставник: [Кексобот].
 
 ---
 
